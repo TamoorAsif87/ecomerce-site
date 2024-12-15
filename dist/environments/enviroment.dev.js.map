@@ -1,0 +1,1 @@
+{"version":3,"file":"enviroment.dev.js","sourceRoot":"","sources":["../../src/environments/enviroment.dev.ts"],"names":[],"mappings":";;;AAEa,QAAA,uBAAuB,GAAiB;IACnD,SAAS,EAAE,yCAAyC;IACpD,YAAY,EAAE;QACZ,aAAa,EAAE,wBAAwB;QACvC,SAAS,EAAE,IAAI;KAChB;CACF,CAAC"}
